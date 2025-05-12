@@ -1,6 +1,6 @@
 # orion-buildplugin
 
-**orion-buildplugin** is a Gradle plugin for automatic **bytecode instrumentation** of `OkHttpClient` usage in Android apps. It is part of the [Orion Android Performance Library](https://www.epsilondelta.co/orion/index), developed by **Epsilon Delta**.
+**orion-buildplugin** is a Gradle plugin for automatic **bytecode instrumentation** of `OkHttpClient` usage in Android apps. It is part of the [Orion Android Performance Library](https://github.com/epsilondelta-speed/orion-aar/), developed by **Epsilon Delta**.
 
 ## ✨ Features
 
