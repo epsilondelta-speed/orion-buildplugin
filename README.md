@@ -20,6 +20,7 @@ Add the plugin to your `build.gradle.kts`:
 plugins {
     id("co.epsilondelta.orion.buildplugin") version "1.0.0"
 }
+```
 
 ℹ️ Coming soon to the Gradle Plugin Portal.
 
