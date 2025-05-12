@@ -31,7 +31,7 @@ plugins {
 
 📞 Need Help?
 
-Visit Epsilon Delta or Contact Us for integration assistance, enterprise licensing, or support.
+Visit Epsilon Delta or Contact Us(https://www.epsilondelta.co/contact) for integration assistance, enterprise licensing, or support.
 
 📝 License
 
